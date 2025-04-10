@@ -1,4 +1,4 @@
-# simple-python-projects
+simple-python-projects
 A collection of beginner-friendly Python projects as I learn the language
 
 This is a beginner-friendly calculator built using Python!  
