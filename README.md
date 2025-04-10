@@ -12,3 +12,17 @@ It allows the user to perform basic operations like addition, subtraction, multi
  How to run:
 ```bash
 python calculator.py
+
+Mad Libs Generator
+
+A fun little Python script that builds a silly story from the words you provide!
+
+Features:
+- Takes input for things like adjectives, names, animals, etc.
+- Combines everything into a funny story
+- Great for beginners to practice `input()` and `f-strings`
+
+ How to run:
+```bash
+python madlibs.py
+
