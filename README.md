@@ -26,3 +26,15 @@ Features:
 ```bash
 python madlibs.py
 
+ Number Guessing Game
+
+A fun game where you guess a secret number between 1 and 10. You only get 5 attempts!
+
+Features:
+- Random number every time you play
+- Player gets helpful hints (too high / too low)
+- Game ends when you win or run out of tries
+
+ How to run:
+```bash
+python random_no.py
